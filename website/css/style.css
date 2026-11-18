@@ -1,0 +1,9 @@
+/* ChefOnline home page */
+*{box-sizing:border-box}
+img{max-width:100%}
+body{margin:0;background:#fff}
+a{color:inherit;text-decoration:none}a:hover{color:#A50D25}
+.nav a:hover{color:#C8102E}
+.mm{display:none}.dd:hover .mm,.dd:focus-within .mm{display:block}.dd:hover>a{color:#C8102E}.mm a:hover{background:#F6F7F9}
+.foot a{color:#C9CDD3}.foot a:hover{color:#fff}
+@media (max-width:900px){.z{flex-direction:column !important}.nav{display:none !important}.cols{grid-template-columns:1fr 1fr !important}.hide-m{display:none !important}}
